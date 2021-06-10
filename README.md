@@ -4,6 +4,7 @@
     - Interned as Software Trainee for database management and handled front end GUI for customer website.
     - Bachelors In Computer Applications from Pune University. 
     - Masters in Computer Appplications(Software and Application Development) from Pune University.
+    
 ### SKILLS :
     - Front End : HTML, CSS, JAVASCRIPT, BOOTSTRAP, RWD, REACT 
     - Back End  : PHP, JAVA, PYTHON, SQL, NODE.JS, MONGO DB
@@ -13,9 +14,11 @@
     - Responsive Web Design
     - API INTEGRATION
     - Agile Development 
+    
 ### CERTIFICATES :
     - C, C++ from Techno Corp, Pune
     - Dale Carnegie Certificate in Executive Excellence from MITSOM, Pune
+    
 ### INTERNSHIP :
     SOFTWARE TRAINEE (February 2019 - April 2019)
     ROH TECHNOLOGIES, PUNE
