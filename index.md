@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# PARAG NARENDRA ROKADE
+  ### SUMMARY :
+    - Software / Web Developer passionate to give the best of my knowledge and skills for dynamic project development.
+    - Focusing on continuous skill development; I strive to be an asset for the project team.
+    - Interned as Software Trainee for database management and handled front end GUI for customer website.
+    - Bachelors In Computer Applications from Pune University. 
+    - Masters in Computer Appplications(Software and Application Development) from Pune University.
+### SKILLS :
+    - Front End : HTML, CSS, JAVASCRIPT, BOOTSTRAP, RWD, REACT 
+    - Back End  : PHP, JAVA, PYTHON, SQL, NODE.JS, MONGO DB
+    - Tech Stack : MERN STACK
+    - Tools : ADOBE XD, FIGMA
+    - Object Oriented Programming 
+    - Responsive Web Design
+    - API INTEGRATION
+    - Agile Development 
+### CERTIFICATES :
+    - C, C++ from Techno Corp, Pune
+    - Dale Carnegie Certificate in Executive Excellence from MITSOM, Pune
+### INTERNSHIP :
+    SOFTWARE TRAINEE (February 2019 - April 2019)
+    ROH TECHNOLOGIES, PUNE
+    
+### EDUCATION :
+    Master Of Computer Application in Software and Application Development,
+    MIT School Of Management, Kothrud, Pune
+    (56.28%)
 
-You can use the [editor on GitHub](https://github.com/ParagR27/ParagNarendraRokade-Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ParagR27/ParagNarendraRokade-Resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    Bachelor of Computer Application,
+    Brihan Maharashtra College Of Commerce, Pune
+    (55.00%)
+  
+    HSC,
+    Ness Wadia College Of Commerce, Pune
+    (59.00%)
+ 
+    SSC,
+    Ornellas High School, Pune
+    (74.00%)
+    
+### Declaration :
+    I hereby declare that the information above is true and correct to  the best of my knoweledge.
+  #### Parag Narendra Rokade
+    
