@@ -40,7 +40,7 @@
     Ornellas High School, Pune
     (74.00%)
     
-  ### CONTACT : 
+### CONTACT : 
     Mobile              : +91 9511624292
     Permanent Address   : 74/12 Rasta Peth, Pune 411011, Parth Co-Housing Society 
     Email Id            : rokadeparag@gmail.com
