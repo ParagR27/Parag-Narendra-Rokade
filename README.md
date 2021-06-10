@@ -1,5 +1,4 @@
-# PARAG NARENDRA ROKADE
-  ### SUMMARY :
+### SUMMARY :
     - Software / Web Developer passionate to give the best of my knowledge and skills for dynamic project development.
     - Focusing on continuous skill development; I strive to be an asset for the project team.
     - Interned as Software Trainee for database management and handled front end GUI for customer website.
